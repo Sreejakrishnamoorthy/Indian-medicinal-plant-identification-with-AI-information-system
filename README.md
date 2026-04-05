@@ -1,6 +1,6 @@
 # 🌿 Indian Plant Identification System with AI
 
-An AI-based web application that identifies Indian medicinal plants from images and provides useful information about them.
+An AI-based web application that identifies Indian medicinal plants from images and provides useful information about them in their native languages.
 
 ## 🚀 Features
 - Image-based plant identification
