@@ -4,7 +4,7 @@ An AI-based web application that identifies Indian medicinal plants from images 
 
 ## 🚀 Features
 - Image-based plant identification
-- AI-powered prediction
+- AI-powered prediction and information system
 - Displays plant details and uses
 - Simple and user-friendly interface
 
@@ -12,7 +12,7 @@ An AI-based web application that identifies Indian medicinal plants from images 
 - Python
 - Flask
 - TensorFlow / Keras
-- HTML, CSS, JavaScript
+- Streamlit
 
 ## ▶️ Run the Project
 ```bash
