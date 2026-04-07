@@ -1,65 +1,104 @@
-# 🔹 Virtual Environment
+# =========================
+
+# 🔹 Python (Backend / AI)
+
+# =========================
 
 venv/
-env/
-ENV/
 .venv/
-
-# 🔹 Python cache files
-
 **pycache**/
 *.pyc
 *.pyo
 *.pyd
 
-# 🔹 Logs
+# =========================
 
-*.log
+# 🔹 Node.js (Backend API)
 
-# 🔹 Environment variables (IMPORTANT - contains secrets)
+# =========================
+
+node_modules/
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# =========================
+
+# 🔹 Environment Variables (IMPORTANT)
+
+# =========================
 
 .env
 
-# 🔹 Jupyter Notebook checkpoints
+# =========================
 
-.ipynb_checkpoints/
+# 🔹 Logs
 
-# 🔹 VS Code settings
+# =========================
 
-.vscode/
+*.log
 
-# 🔹 PyCharm settings
+# =========================
 
-.idea/
+# 🔹 Database
 
-# 🔹 OS files
+# =========================
 
-.DS_Store
-Thumbs.db
+*.db
 
-# 🔹 Build / distribution
+# =========================
+
+# 🔹 Build / Distribution
+
+# =========================
 
 build/
 dist/
 *.egg-info/
 
-# 🔹 Temporary files
+# =========================
+
+# 🔹 IDE / Editor
+
+# =========================
+
+.vscode/
+.idea/
+
+# =========================
+
+# 🔹 OS Files
+
+# =========================
+
+.DS_Store
+Thumbs.db
+
+# =========================
+
+# 🔹 Jupyter
+
+# =========================
+
+.ipynb_checkpoints/
+
+# =========================
+
+# 🔹 Temporary Files
+
+# =========================
 
 *.tmp
 *.swp
 
-# 🔹 Model files (optional - if large)
+# =========================
+
+# 🔹 AI / ML (optional)
+
+# =========================
 
 *.h5
 *.pt
 *.pth
-
-# 🔹 Dataset files (optional - if large/private)
-
 data/
 datasets/
-
-# 🔹 SQLite database (if used)
-
-*.db
-node_modules/
