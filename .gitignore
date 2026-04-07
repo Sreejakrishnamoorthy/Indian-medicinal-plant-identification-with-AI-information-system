@@ -1,1 +1,65 @@
+# 🔹 Virtual Environment
+
+venv/
+env/
+ENV/
+.venv/
+
+# 🔹 Python cache files
+
+**pycache**/
+*.pyc
+*.pyo
+*.pyd
+
+# 🔹 Logs
+
+*.log
+
+# 🔹 Environment variables (IMPORTANT - contains secrets)
+
 .env
+
+# 🔹 Jupyter Notebook checkpoints
+
+.ipynb_checkpoints/
+
+# 🔹 VS Code settings
+
+.vscode/
+
+# 🔹 PyCharm settings
+
+.idea/
+
+# 🔹 OS files
+
+.DS_Store
+Thumbs.db
+
+# 🔹 Build / distribution
+
+build/
+dist/
+*.egg-info/
+
+# 🔹 Temporary files
+
+*.tmp
+*.swp
+
+# 🔹 Model files (optional - if large)
+
+*.h5
+*.pt
+*.pth
+
+# 🔹 Dataset files (optional - if large/private)
+
+data/
+datasets/
+
+# 🔹 SQLite database (if used)
+
+*.db
+node_modules/
