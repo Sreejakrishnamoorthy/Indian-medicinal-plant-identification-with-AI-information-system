@@ -1,0 +1,10 @@
+streamlit
+transformers
+torch
+pillow
+flask
+transformers 
+torch 
+torchvision 
+torchaudio 
+pillow 
